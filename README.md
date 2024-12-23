@@ -10,4 +10,5 @@
 <li>Linked List</li>
 <li>Array</li>
 <li>Searching</li>
+<li>String</li>
 </ol>
