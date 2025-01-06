@@ -7,8 +7,8 @@
 
 <ol>
 <li>Big O</li>
-<li>Linked List</li>
 <li>Array</li>
 <li>Searching</li>
 <li>String</li>
+<li>Linked List</li>
 </ol>
