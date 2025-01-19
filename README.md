@@ -11,4 +11,5 @@
 <li>Searching</li>
 <li>String</li>
 <li>Linked List</li>
+<li>Stack and Queues</li>
 </ol>
