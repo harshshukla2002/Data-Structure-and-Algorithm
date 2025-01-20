@@ -12,4 +12,6 @@
 <li>String</li>
 <li>Linked List</li>
 <li>Stack and Queues</li>
+<li>Sliding Window</li>
+<li>Two Pointer</li>
 </ol>
