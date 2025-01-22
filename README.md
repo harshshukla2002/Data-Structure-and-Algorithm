@@ -14,4 +14,5 @@
 <li>Stack and Queues</li>
 <li>Sliding Window</li>
 <li>Two Pointer</li>
+<li>Greedy</li>
 </ol>
