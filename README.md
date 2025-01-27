@@ -15,4 +15,5 @@
 <li>Sliding Window</li>
 <li>Two Pointer</li>
 <li>Greedy</li>
+<li>Dynamic Programming</li>
 </ol>
