@@ -32,5 +32,5 @@ const sumOfSpecialPair = (n: number, arr: number[]): number => {
     }
   }
 
-  console.log(sum);
+  return sum;
 };
